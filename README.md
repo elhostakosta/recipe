@@ -1,6 +1,6 @@
-# Recipe Page 🍕
+# Recipe 🍕
 
-This is a simple page that showcases a delicious recipe.
+This is a page that showcases a delicious recipe.
 
 ---
 
@@ -12,7 +12,7 @@ This is a simple page that showcases a delicious recipe.
 
 ## Preview 🎥
 
-![Recipe Page Demo GIF](./images/demo.gif)
+![Recipe Demo GIF](./images/demo.gif)
 
 ---
 
