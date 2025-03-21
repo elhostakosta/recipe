@@ -18,7 +18,7 @@ This is a simple page that showcases a delicious recipe.
 
 ## Live Demo 🌐
 
-Check out the live demo of the project here: [Live Demo](https://elhostakosta.github.io/recipe-page/)
+Check out the live demo of the project here: [Live Demo](https://elhostakosta.github.io/recipe)
 
 ---
 
@@ -26,7 +26,7 @@ Check out the live demo of the project here: [Live Demo](https://elhostakosta.gi
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/elhostakosta/recipe-page.git
+    git clone https://github.com/elhostakosta/recipe.git
     ```
 2. **Open the Project**:
     Navigate to the project folder and open the `index.html` file in your favorite web browser.
