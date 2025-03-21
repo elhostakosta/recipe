@@ -9,7 +9,6 @@ This is a simple page that showcases a delicious recipe.
 ## Preview 🎥
 
 ![Recipe Page Demo GIF](./images/demo.gif)
-*A GIF showcasing the recipe page in action.*
 
 ## Live Demo 🌐
 
