@@ -36,6 +36,7 @@ Check out the live demo of the project here: [Live Demo](https://elhostakosta.gi
 ## Credits 🙌
 
 - **Image and Recipe Source**: [AllRecipes](https://www.allrecipes.com/recipe/20171/quick-and-easy-pizza-crust/)
+- **Inspiration**: This project was inspired by FreeCodeCamp's curriculum.
 
 ---
 
